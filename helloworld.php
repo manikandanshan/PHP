@@ -1,3 +1,4 @@
+#!/bin/bash
 <!DOCTYPE html>
 <html>
 <body>
