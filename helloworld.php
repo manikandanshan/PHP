@@ -9,6 +9,7 @@
 
 <?php
 echo "Hello World PHP CD!";
+echo "Hello jenkins!";
 ?>
 
 </body>
